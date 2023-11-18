@@ -1,0 +1,58 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 75px;
+    overflow: auto;
+    background: rgb(46, 255, 210);
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/hYvM7_SmBZnP_rmMOiE8H2p_qPb9hKXe0UeAZ-rVd-2PEUOwOCSe_xOVmptRZcJd8BU0c3K8mF9uaGPZJ-LzlwXUISTV1bjMkroqWoUb4HrdzMa2t47atHAjcVYDuL28NPUYSK2GM1jrG-mn3UnJiFDb6d6u3I0Pu9GA355QlI50zPrn9THL1Gdoi206KuTPr0zukxGqi1L8IP_OT4CXWOVrM20u4hfXK7F8iMCUSTSYuxgTrdH_lVP30coOmY3mko4suEtg7EUVZhH43WXX8ijUUAHmyTMHVPSjPTWo2fZX3n4Y0-xyAPnDNkwf1fThg7Rf_jrVJiwnJyn7u1pfPNWJYxPGmFy7AwlPt2j_VOibBzpAe61gjgKyvQD4MXISirPM1GWtYqJaWv5x6ZgTupsA2iqQv8KQtRDqNkZaP3HlI7Rf4tCJMz4DMsUFdkr3z21uAduKIdKSQpu9srW1cG6wTIyLsBCuo5tBkl1FX4pBh0EMRD08AsUpUl998lX-eeXmVL1avYc5wwxnkR1PYcPE5GHhOiqB_TerxhyWq_TCZImZM5spX6a28kPYCdqeTqw071MaFqXIjFE0k4fSPU55boNyq1jqOrEqnzJSJYR5wVzxXrJrbS4MCwyl0Qy_MdzbwDkHmJ6s0mpxQl6bdAqiA9TJGbJaNTTAQishpRNbR2rpAFHNaU0s64Ycj4nRDrD9mF67BjDPNWO2lcSc7vyjd8AGT7zrD8HCkv4DijmgM5Z7VCsjp6DZmai9lAidVK-ZX2SJeSbbNao8q2NsKKOa60RxJ9zn6-xUzXs-y0gSB_smIqoAxbOGfDZttDBI_9sJ1cpTxiIudq9pqdamgPqOQJHMwjWAkZHKyPIcJUE4DdYBt41NoQSpnPlqqJywxV431w52ykrFmeqwazXB5Z6dpr7S5xoWClL-KfzCJXbsmNzg=w590-h786-s-no?authuser=0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-family: 'Orbitron', sans-serif;
+}
+.name{
+    color: black;
+    border-bottom: 3px solid;
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 5px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+main{
+    background-color: rgba(0, 0, 0, .75);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+button{  
+    text-align: center;
+    background-color: black;
+    color: rgb(46, 255, 210);
+    height: 25px;
+    width: 150px;
+    font-size: 18px;
+    margin: .5rem;
+    border-radius: 5px;
+    cursor: hand;
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background: rgb(46, 255, 210);
+}
+footer img{
+    float: right;
+    height: 50px;
+}

@@ -1,0 +1,15 @@
+body{
+    color: rgb(46, 255, 210);
+}
+.name{
+    border-bottom: 3px solid;
+}
+main h1{
+    text-decoration: underline rgb(46, 255, 210);
+    text-align: center;
+}
+main{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    border: 2px solid black;
+}

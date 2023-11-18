@@ -1,0 +1,12 @@
+.name{
+    border-bottom: 3px solid;
+}
+main h2{
+    text-decoration: underline rgb(46, 255, 210);
+}
+main{
+    color: rgb(46, 255, 210);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    border: 2px solid black;
+}

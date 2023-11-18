@@ -1,0 +1,35 @@
+body{
+    color: rgb(46, 255, 210);
+}
+.name{
+    border-bottom: 3px solid;
+}
+main h1{
+    text-decoration: underline rgb(46, 255, 210);
+}
+main{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    border: 2px solid black;
+}
+main li{
+    position: relative ; left: 50px;
+}
+main p{
+    border: 1px solid rgb(46, 255, 210);
+    width: 400px;
+}
+main img{
+    float: right;
+    overflow: auto;
+    height: 260px;
+    position: absolute ; right: 100px;
+}
+li{
+    font-size: 24px;
+    margin: 25px;
+}
+p{
+    font-size: 18px;
+    margin: 25px;
+}
